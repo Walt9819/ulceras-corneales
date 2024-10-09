@@ -1,0 +1,8 @@
+tqdm
+imageio
+scikit-learn
+scikit-image
+scipy
+opencv-python==3.4.8.29
+kornia
+torchmetrics

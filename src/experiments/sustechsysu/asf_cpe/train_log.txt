@@ -1,0 +1,4 @@
+Use GPU: 0 for training
+=> creating dataset [sustechsysu], fold 0...
+=> creating model 'MscaleUNet'
+Initialized DiceLoss with {'idc': 1}
